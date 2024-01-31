@@ -152,7 +152,7 @@ SG 싱가폴
             for line in lines:
                 html = html + line    
     
-            components.html(html, width=1280, height=960, scrolling=True)
+            components.html(html, width=640, height=640, scrolling=True)
 
 
 if __name__ == "__main__" :
