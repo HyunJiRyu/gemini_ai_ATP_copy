@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+XLML/__init__.py
+XLML/xlml.py
+XLML.egg-info/PKG-INFO
+XLML.egg-info/SOURCES.txt
+XLML.egg-info/dependency_links.txt
+XLML.egg-info/top_level.txt
